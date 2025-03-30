@@ -1,0 +1,46 @@
+.| .| .| 
+.| .| .| 
+.| .| .| 
+
+Evaluation time: 0.63042s
+Insert the X coordinate: 1
+Insert the Y coordinate: 1
+.| .| .| 
+.| X| .| 
+.| .| .| 
+
+O| .| .| 
+.| X| .| 
+.| .| .| 
+
+Evaluation time: 0.0076499s
+Insert the X coordinate: 2
+Insert the Y coordinate: 0
+O| .| .| 
+.| X| .| 
+X| .| .| 
+
+O| .| O| 
+.| X| .| 
+X| .| .| 
+
+Evaluation time: 0.0008709s
+Insert the X coordinate: 0
+Insert the Y coordinate: 1
+O| X| O| 
+.| X| .| 
+X| .| .| 
+
+AI made a mistake and chose a non-optimal move.
+O| X| O| 
+.| X| O| 
+X| .| .| 
+
+Evaluation time: 7.61e-05s
+Insert the X coordinate: 2
+Insert the Y coordinate: 1
+O| X| O| 
+.| X| O| 
+X| X| .| 
+
+The winner is X!
